@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20F71" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Profilim" representedClassName="Profilim" syncable="YES" codeGenerationType="class">
+        <attribute name="ad" optional="YES" attributeType="String"/>
+        <attribute name="alan" optional="YES" attributeType="String"/>
+        <attribute name="dersSaati" optional="YES" attributeType="String"/>
+        <attribute name="istedigiBolum" optional="YES" attributeType="String"/>
+        <attribute name="mail" optional="YES" attributeType="String"/>
+        <attribute name="ogrenim" optional="YES" attributeType="String"/>
+        <attribute name="pass" optional="YES" attributeType="String"/>
+        <attribute name="premium" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="sevdigiDers" optional="YES" attributeType="String"/>
+        <attribute name="soyad" optional="YES" attributeType="String"/>
+        <attribute name="username" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Profilim" positionX="-73.08111572265625" positionY="-32.80038452148438" width="128" height="194"/>
+    </elements>
+</model>
